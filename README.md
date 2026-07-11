@@ -31,25 +31,34 @@
 
 ## 🧠 About Me
 
-```bash
-siddharth@dev:~$ whoami
-> Siddharth | B.Tech CSE Graduate (2026) | Fresher
+## 👨‍💻 About Me
 
-siddharth@dev:~$ cat status.txt
-> Currently seeking Software Engineer / Full Stack Developer roles
-> Actively building MERN stack projects
-> Learning AWS, Docker & DevOps fundamentals
+Hi, I'm **Siddharth**, a **B.Tech Computer Science Engineering graduate (2026)** passionate about building scalable web applications.
 
-siddharth@dev:~$ cat focus.txt
-> Full Stack Web Development (MERN)
-> Data Structures & Algorithms in Java
-> Cloud & DevOps (AWS, Docker) - In Progress
+I enjoy solving **Data Structures & Algorithms in Java**, developing **MERN Stack** applications, and continuously learning **AWS, Docker, and DevOps**.
 
-siddharth@dev:~$ echo "Let's build something great!"
-> Let's build something great!
+Currently looking for **Software Engineer** and **Full Stack Developer** opportunities where I can build impactful software and grow as an engineer.
+
+```yaml
+Name: Siddharth
+Role: Full Stack Developer
+Education: B.Tech CSE (2026)
+University: Lovely Professional University
+Location: Prayagraj, India
+
+Currently Learning:
+  - Java DSA
+  - React
+  - AWS
+  - Docker
+  - DevOps
+
+Open To:
+  - Software Engineer
+  - Full Stack Developer
 ```
 
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
@@ -117,43 +126,40 @@ siddharth@dev:~$ echo "Let's build something great!"
 
 <details open>
 <summary><b>🎨 AI SaaS Text-to-Image Generator</b></summary>
-<br/>
 
-**Stack:** React, Node.js, Express.js, MongoDB, JWT, Razorpay
+### Tech Stack
+React • Node.js • Express.js • MongoDB • JWT • Razorpay
 
-**Contribution:** Designed and developed the complete full-stack application — including authentication (JWT), payment integration (Razorpay), and AI-powered image generation.
+### Highlights
+- AI-powered text-to-image generation
+- JWT Authentication
+- Razorpay payment integration
+- Responsive UI
 
-</details>
-
-<details>
-<summary><b>🔗 Affiliate Link Sharing Platform</b></summary>
-<br/>
-
-**Stack:** React, Node.js, Express.js, MongoDB
-
-**Contribution:** Built the complete MERN application for affiliate link management, from backend APIs to the frontend interface.
+### Links
+- 🔗 Live Demo: <https://text-to-image-frontend-sigma.vercel.app/>
+- 💻 GitHub: <https://github.com/si12ssdd/AI-text-to-image-generator>
 
 </details>
 
-<br/>
 
-## 💼 Experience
+<details open>
+<summary><b>🎨 Affiliate Link Sharing Platform</b></summary>
 
-<div align="center">
+### Tech Stack
+React, Node.js, Express.js, MongoDB
 
-![Fresher](https://img.shields.io/badge/Experience-Fresher-58A6FF?style=for-the-badge&labelColor=0D1117)
+### Highlights
+- Built the complete MERN application for affiliate link management
+- from backend APIs to the frontend interface.
+- Responsive UI
 
-</div>
+### Links
+- 🔗 Live Demo: <https://affiliate-link-sharing.vercel.app/>
+- 💻 GitHub: <https://github.com/si12ssdd/AffiliateLinkSharing>
 
-Currently a **fresher**, actively looking for opportunities to bring strong full-stack development skills into a professional team.
+</details>
 
-<br/>
-
-## 🏆 Achievements
-
-No achievements listed yet — check back soon as I continue building and growing! 🌱
-
-<br/>
 
 ## 🎓 Education
 
