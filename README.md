@@ -118,54 +118,57 @@ Open To:
 
 <br/>
 
+
+
 ## 📊 Expertise Table
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | Java, JavaScript, HTML, CSS |
-| **Frontend** | React, Tailwind CSS |
-| **Backend** | Node.js, Express.js |
-| **Database** | MongoDB |
-| **Cloud & DevOps** | AWS *(Learning)*, Docker *(Learning)*, Linux, Git, GitHub |
-| **Tools** | VS Code, Postman |
+<div align="center">
 
-<br/>
+| Category | Stack |
+|:---:|:---|
+| 🌐 **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🎨 **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| ⚙️ **Backend** | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
+| 🗄️ **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| ☁️ **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| 🛠️ **Tools** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+</div>
 
 ## 🚀 Featured Projects
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Here's+what+I've+been+building..." />
+</div>
+
+<br/>
+
 <details open>
-<summary><b>🎨 AI SaaS Text-to-Image Generator</b></summary>
+<summary><b>🎨 AI SaaS Text-to-Image Generator</b> &nbsp; <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square"/></summary>
+<br/>
 
-### Tech Stack
-React • Node.js • Express.js • MongoDB • JWT • Razorpay
+**Tech Stack:** ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Node](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens) ![Razorpay](https://img.shields.io/badge/-Razorpay-black?style=flat-square&logo=razorpay)
 
-### Highlights
-- AI-powered text-to-image generation
-- JWT Authentication
-- Razorpay payment integration
-- Responsive UI
+- ✨ AI-powered text-to-image generation
+- 🔐 JWT Authentication
+- 💳 Razorpay payment integration
+- 📱 Responsive UI
 
-### Links
-- 🔗 Live Demo: <https://text-to-image-frontend-sigma.vercel.app/>
-- 💻 GitHub: <https://github.com/si12ssdd/AI-text-to-image-generator>
+🔗 [**Live Demo**](https://text-to-image-frontend-sigma.vercel.app/) &nbsp;•&nbsp; 💻 [**GitHub**](https://github.com/si12ssdd/AI-text-to-image-generator)
 
 </details>
 
-
 <details open>
-<summary><b>🎨 Affiliate Link Sharing Platform</b></summary>
+<summary><b>🔗 Affiliate Link Sharing Platform</b> &nbsp; <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square"/></summary>
+<br/>
 
-### Tech Stack
-React, Node.js, Express.js, MongoDB
+**Tech Stack:** ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Node](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-### Highlights
-- Built the complete MERN application for affiliate link management
-- from backend APIs to the frontend interface.
-- Responsive UI
+- 🏗️ Built the complete MERN application for affiliate link management
+- 🔄 End-to-end: backend APIs to frontend interface
+- 📱 Responsive UI
 
-### Links
-- 🔗 Live Demo: <https://affiliate-link-sharing.vercel.app/>
-- 💻 GitHub: <https://github.com/si12ssdd/AffiliateLinkSharing>
+🔗 [**Live Demo**](https://affiliate-link-sharing.vercel.app/) &nbsp;•&nbsp; 💻 [**GitHub**](https://github.com/si12ssdd/AffiliateLinkSharing)
 
 </details>
 
@@ -252,26 +255,45 @@ React, Node.js, Express.js, MongoDB
 
 ## 🎯 Current Focus
 
-```yaml
-current_focus:
-  learning:
-    - Java DSA
-    - React Interview Preparation
-    - AWS
-    - Docker
-    - DevOps
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=What+I'm+up+to+right+now..." />
+</div>
 
-  building:
-    - Improving MERN Projects
-    - GitHub Portfolio
-    - Preparing for SDE Interviews
+<br/>
 
-  open_to:
-    - Software Engineer
-    - Full Stack Developer
-    - Backend Developer
-    - React Developer
-```
+<table align="center">
+<tr>
+<th>📚 Learning</th>
+<th>🏗️ Building</th>
+<th>🎯 Open To</th>
+</tr>
+<tr>
+<td valign="top">
+
+- Java DSA
+- React Interview Prep
+- AWS
+- Docker
+- DevOps
+
+</td>
+<td valign="top">
+
+- Improving MERN Projects
+- GitHub Portfolio
+- Preparing for SDE Interviews
+
+</td>
+<td valign="top">
+
+- Software Engineer
+- Full Stack Developer
+- Backend Developer
+- React Developer
+
+</td>
+</tr>
+</table>
 
 <br/>
 
