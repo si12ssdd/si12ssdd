@@ -24,20 +24,29 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=si12ssdd&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/si12ssdd?color=1F6FEB&style=for-the-badge&label=FOLLOWERS&labelColor=0D1117)
 ![Stars](https://img.shields.io/github/stars/si12ssdd?color=58A6FF&style=for-the-badge&label=STARS&labelColor=0D1117)
-
 </div>
-
 <br/>
-
-## 🧠 About Me
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Siddharth**, a **B.Tech Computer Science Engineering graduate (2026)** passionate about building scalable web applications.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-I enjoy solving **Data Structures & Algorithms in Java**, developing **MERN Stack** applications, and continuously learning **AWS, Docker, and DevOps**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61AFEF&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Siddharth+%F0%9F%91%8B;B.Tech+CSE+Graduate+(2026);MERN+Stack+Developer;DSA+in+Java+Enthusiast;Open+to+SDE+%2F+Full+Stack+Roles)](https://git.io/typing-svg)
 
-Currently looking for **Software Engineer** and **Full Stack Developer** opportunities where I can build impactful software and grow as an engineer.
+I'm passionate about building **scalable web applications** and solving problems the right way.
+
+I enjoy solving **Data Structures & Algorithms in Java**, developing **MERN Stack** applications, and continuously leveling up in **AWS, Docker, and DevOps**.
+
+🚀 Currently looking for **Software Engineer** and **Full Stack Developer** roles where I can build impactful software and grow as an engineer.
+
+</td>
+<td width="40%" valign="top">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%">
+</td>
+</tr>
+</table>
 
 ```yaml
 Name: Siddharth
@@ -58,7 +67,7 @@ Open To:
   - Full Stack Developer
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=61AFEF&height=80&section=footer" width="100%">
 
 ## 🛠️ Tech Stack
 
