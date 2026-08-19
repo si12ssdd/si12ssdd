@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0A14,50:6A0DAD,100:0A0A14&amp;height=280&amp;section=header&amp;text=Hey,%20I'm%20Siddharth%20%F0%9F%91%8B&amp;fontSize=48&amp;fontColor=E0E0E0&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Software%20Developer%20%E2%80%A2%20Full%20Stack%20%26%20Backend%20%E2%80%A2%20SDE-I&amp;descAlignY=58&amp;descAlign=50&amp;descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0A0A14,50:6A0DAD,100:0A0A14&amp;height=280&amp;section=header&amp;text=Hey,%20I'm%20Siddharth%20%F0%9F%91%8B&amp;fontSize=48&amp;fontColor=E0E0E0&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=Software%20Developer%20%E2%80%A2%20Full%20Stack%20%2B%20Backend%20%E2%80%A2%20SDE-I&amp;descAlignY=58&amp;descAlign=50&amp;descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=2800&amp;pause=900&amp;color=9D4EDD&amp;center=true&amp;vCenter=true&amp;width=650&amp;background=00000000&amp;lines=Building+scalable+web+apps+%F0%9F%9A%80;MERN+%2B+Java+Backend+Developer+%F0%9F%92%9C;B.Tech+CSE+%C2%B7+Class+of+2026+%F0%9F%8E%93;Architecting+secure+REST+APIs+%E2%9A%94%EF%B8%8F;Exploring+GCP+%26+Docker+%E2%98%81%EF%B8%8F;Open+to+SDE-1+Roles+%E2%80%94+Let's+Talk!+%F0%9F%92%AC" alt="Typing SVG" />
